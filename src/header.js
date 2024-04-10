@@ -2,9 +2,6 @@ import logo from "./images/logo.png"
 export default function Header(){
     return (
     <div className="App-header">
-        <div class="mt-2 text-5xl text-center text-black px-3 py-2 rounded-md text-sm font-medium">
-            Welcome to Amazsoft
-        </div>
     <nav class="dark:bg-gray-800  shadow ">
         <div class="px-8 mx-auto max-w-7xl">
             <div class="flex items-center justify-between h-16">
