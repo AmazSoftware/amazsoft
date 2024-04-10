@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/amazsoft/static/css/main.a218e060.css",
-    "main.js": "/amazsoft/static/js/main.c5ce63d8.js",
-    "static/js/787.9785b0a7.chunk.js": "/amazsoft/static/js/787.9785b0a7.chunk.js",
-    "static/media/go.png": "/amazsoft/static/media/go.a3f3f8d5351062f34c44.png",
-    "static/media/react.png": "/amazsoft/static/media/react.4f91db71450b4893caa9.png",
-    "index.html": "/amazsoft/index.html",
-    "main.a218e060.css.map": "/amazsoft/static/css/main.a218e060.css.map",
-    "main.c5ce63d8.js.map": "/amazsoft/static/js/main.c5ce63d8.js.map",
-    "787.9785b0a7.chunk.js.map": "/amazsoft/static/js/787.9785b0a7.chunk.js.map"
+    "main.css": "/static/css/main.a218e060.css",
+    "main.js": "/static/js/main.8372b9df.js",
+    "static/js/787.9785b0a7.chunk.js": "/static/js/787.9785b0a7.chunk.js",
+    "static/media/go.png": "/static/media/go.a3f3f8d5351062f34c44.png",
+    "static/media/react.png": "/static/media/react.4f91db71450b4893caa9.png",
+    "index.html": "/index.html",
+    "main.a218e060.css.map": "/static/css/main.a218e060.css.map",
+    "main.8372b9df.js.map": "/static/js/main.8372b9df.js.map",
+    "787.9785b0a7.chunk.js.map": "/static/js/787.9785b0a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a218e060.css",
-    "static/js/main.c5ce63d8.js"
+    "static/js/main.8372b9df.js"
   ]
 }
