@@ -44,7 +44,7 @@ export default function Services(){
             </div>
         </div>
         <h3 class="py-4 text-2xl font-semibold text-gray-700 sm:text-xl dark:text-white">
-            SEO Marketing
+            App Development
         </h3>
         <p class="py-4 text-gray-500 text-md dark:text-gray-300">
             Let us help you level up your search engine game, explore our solutions for digital marketing for your business.
