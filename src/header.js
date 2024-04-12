@@ -2,9 +2,8 @@ import logo from "./images/logo.png"
 
 export default function Header(){
     return (
-
-    <div className="App-header">
-    <nav class="dark:bg-gray-800  shadow ">
+   
+    <nav class="bg-gray-300 dark:bg-gray-800 shadow ">
         <div class="px-8 mx-auto max-w-7xl">
             <div class="flex items-center justify-between h-16">
                 <div class=" flex items-center">
@@ -78,7 +77,6 @@ export default function Header(){
             </div>
         </div>
     </nav>
-</div>
 
     );
 }
